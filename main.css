@@ -17,7 +17,6 @@ img {
 }
 
 
-
 #logo-nav{
     display: flex;
     flex-direction: row;
@@ -155,6 +154,10 @@ aside p{
     flex-direction: row;
     gap: 45px;
     padding-top: 120px;
+}
+
+.fa-brands{
+    color: white;
 }
 
 footer{
@@ -308,5 +311,6 @@ footer{
     footer{
         flex-direction: column;
         gap: 40px;
+        padding-bottom: 30px;
     }
 }
